@@ -1,6 +1,7 @@
 # 🛑 URGENT - WRONG GITHUB LINK 🛑
 
-**This GitHub profile (`harshnnnl`) was accidentally submitted on my job applications.**
+**This GitHub profile (`harshnnnl`) was accidentally submitted on my job application for the position Associate React Engineer
+.**
 
 ### **Please use my correct and active GitHub profile:**
 
